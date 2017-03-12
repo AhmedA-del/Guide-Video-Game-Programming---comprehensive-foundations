@@ -64,3 +64,29 @@ There WILL be math. And, it's important. If the thought frightens you, or bores 
 - Game: Pong (Reference Tutorial [Pong - Tutorials 1 through 7](http://www.zekechan.net/tag/pong/))
 - Game: Galaga
 - Game: Breakout
+
+
+## Tier 1
+- Course: [Introduction to Computer Science - CS50](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x#!)
+- Course: [Effective Thinking Through Mathematics](https://www.edx.org/course/effective-thinking-through-mathematics-utaustinx-ut-9-01x-0)
+- Game: Hangman
+- Book: [Precalculus](http://www.stitz-zeager.com/szprecalculus07042013.pdf)
+- Book: [Fundamentals of C++ Programming](http://python.cs.southern.edu/cppbook/progcpp.pdf) and [labs](http://www.cs.southern.edu/halterman/Courses/Winter2014/124/Labs/index.html)
+- Game: Adventure (see [text adventure games](http://www.web-adventures.org/))
+- Exercises: [Code Monk](https://www.hackerearth.com/practice/), then [CodinGame](https://www.codingame.com/start) - begin working through these lessons, make them a daily habit as you continue on
+- Article: Read [Algorithms and Flowcharts](http://www.academia.edu/7857144/ALGORITHMS_AND_FLOWCHARTS) and then familiarize yourself with [Pencil](http://pencil.evolus.vn/) ... start flowcharting complex portions of your code logic as part of your documentation
+- Course: [Video Game Design History](https://www.edx.org/course/video-game-design-history-ritx-game101x#!)
+- Book: [An Introduction to Design Patterns in C++ with Qt 4](http://ptgmedia.pearsoncmg.com/images/9780131879058/downloads/0131879057_Ezust_book.pdf)
+- Game: Zork (see [text adventure games](http://www.web-adventures.org/))
+- Article: [Building a Game on Your Own](http://www.flipcode.com/archives/Building_A_Game_On_Your_Own.shtml)
+- Article: [How do I Make Games](http://web.archive.org/web/20051104034215/http://www.lupinegames.com/articles/path_to_dev.html)
+- Article: [So You Want to Be a Game Programmer?](http://gamesfromwithin.com/so-you-want-to-be-a-game-programmer)
+- Article: [Finishing a Game](http://makegames.tumblr.com/post/1136623767/finishing-a-game)
+- Article: [Pixel Art Tutorial](http://makegames.tumblr.com/post/42648699708/pixel-art-tutorial)
+- Article: [The Total Beginner’s Guide to Better 2D Game Art](https://www.gamedev.net/resources/_/creative/visual-arts/the-total-beginner%E2%80%99s-guide-to-better-2d-game-art-r2959)
+- Article: [2D Tutorial Series Introduction](http://www.aaroncox.net/tutorials/arcade/Introduction.html)
+- Game: Pong (Reference Tutorial [Paddle Battle](http://www.aaroncox.net/tutorials/arcade/PaddleBattle.html))
+- Course: [Calculus One](https://www.coursera.org/learn/calculus1)
+- Game: Duck Hunt
+- Course: [The Rise of Superheroes and Their Impact On Pop Culture](https://www.edx.org/course/rise-superheroes-impact-pop-culture-smithsonianx-popx1-5x#!)
+- Game: Sokoban, Snake, or Minesweeper - your choice
